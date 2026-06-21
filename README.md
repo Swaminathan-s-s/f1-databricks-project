@@ -1,2 +1,24 @@
-# f1-databricks-project
-Production-style Data Engineering project that ingests Formula 1 data, transforms it through Bronze/Silver/Gold layers, and delivers analytics dashboards using Databricks and PySpark.
+# Formula 1 Analytics Platform
+
+An end-to-end Data Engineering project built using Databricks, PySpark, Delta Lake, SQL, and Dashboarding.
+
+## Architecture
+
+CSV Files
+→ DBFS
+→ Bronze Layer
+→ Silver Layer
+→ Gold Layer
+→ Dashboard
+
+## Technologies
+
+- Databricks
+- PySpark
+- Delta Lake
+- SQL
+- GitHub
+
+## Project Status
+
+🚧 In Progress
